@@ -250,7 +250,8 @@ i {
 }
 
 .event-poster img {
-  max-width: 100%;
+  width: 100%;
+  max-width: 1000px;
 }
 
 li {
